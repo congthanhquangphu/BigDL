@@ -36,7 +36,7 @@ It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwrit
 between 0 and 9. The MNIST data is split into three parts: 60,000 data points of training data,
 10,000 points of test data.
 
-![BigDL](https://github.com/BigDL/images/1.png)
+![BigDL](images/1.png)
 
 With this BigDL Problem, We use LSTM model for MNIST digit classification problem.
 
@@ -44,15 +44,15 @@ With this BigDL Problem, We use LSTM model for MNIST digit classification proble
 
 ### Execution running time
 
-![BigDL](https://github.com/BigDL/images/8.png)
+![BigDL](images/8.png)
 
-![BigDL](https://github.com/BigDL/images/5.png)
+![BigDL](images/5.png)
 
 ### Computation Evaluation (SPEED UP)
 
-![BigDL](https://github.com/BigDL/images/9.png)
+![BigDL](images/9.png)
 
-![BigDL](https://github.com/BigDL/images/6.png)
+![BigDL](images/6.png)
 
 
 
