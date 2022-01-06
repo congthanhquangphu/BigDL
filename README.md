@@ -6,7 +6,7 @@ BigDL is a distributed deep learning library for Apache Spark; with BigDL, users
 deep learning applications as standard Spark programs, which can directly run on top of existing
 Spark or Hadoop clusters.
 
-![BigDL](https://github.com/congthanhquangphu/BigDL/images/3.png)
+![BigDL](https://github.com/congthanhquangphu/BigDL/tree/main/images/3.png)
 
 ## Installation
 
